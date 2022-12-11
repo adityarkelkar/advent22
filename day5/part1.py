@@ -1,4 +1,3 @@
-# 
 def parseInput(filename):
     input_file = open(filename, 'r')
     Lines = input_file.readlines()
